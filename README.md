@@ -209,9 +209,9 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[contct form]**
-- [ ] **[home]**
-- [ ] **[address]**
+- [ ] **[htm]**
+- [ ] **[css]**
+- [ ] **[linters]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -243,19 +243,6 @@ I would like to thank my coding partners, mentors, Microverse to support me.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FAQ (optional) -->
-
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
-
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
