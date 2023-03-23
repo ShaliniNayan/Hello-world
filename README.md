@@ -1,11 +1,5 @@
 # Hello-world
-<a name="readme-top"></a>
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
 
 REQUIRED SECTIONS:
 - Table of Contents
@@ -23,13 +17,10 @@ REQUIRED SECTIONS:
 OPTIONAL SECTIONS:
 - FAQ
 
-After you're finished please remove all the comments and instructions!
--->
+
 
 <div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
+ 
 
   <h3><b>Microverse README Template</b></h3>
 
@@ -61,11 +52,11 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [Hello Microverse] <a name="Hello Microverse"></a>
 
 > Describe your project in 1 or 2 sentences.
 
-**[your_project__name]** is a...
+**[Hello Microverse]** This is my first project in Microverse.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -204,7 +195,6 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
 
 👤 **Author1**
 
@@ -219,11 +209,9 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **[contct form]**
+- [ ] **[home]**
+- [ ] **[address]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -241,9 +229,8 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
 
-If you like this project...
+If you like this project please thumbs up.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -251,9 +238,8 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+I would like to thank my coding partners, mentors, Microverse to support me.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -279,6 +265,5 @@ I would like to thank...
 
 This project is [MIT](./LICENSE) licensed.
 
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
