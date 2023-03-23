@@ -22,8 +22,7 @@ OPTIONAL SECTIONS:
 <div align="center">
  
 
-  <h3><b>Microverse README Template</b></h3>
-
+  
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -54,7 +53,6 @@ OPTIONAL SECTIONS:
 
 # 📖 [Hello Microverse] <a name="Hello Microverse"></a>
 
-> Describe your project in 1 or 2 sentences.
 
 **[Hello Microverse]** This is my first project in Microverse.
 
@@ -62,48 +60,38 @@ OPTIONAL SECTIONS:
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="https://html.org/">index.html</a></li>
   </ul>
 </details>
 
 <details>
   <summary>Server</summary>
   <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
+    <li><a href="https://css.com/">style.css</a></li>
   </ul>
 </details>
 
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details>
 
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[README Update]**
+- **[Free content from Linters]**
+- **[Scale Project in mobile to desktop Version]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="live-demo"></a>
+<!--## 🚀 Live Demo <a name="live-demo"></a>-->
 
-> Add a link to your deployed project.
 
-- [Live Demo Link](https://google.com)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -111,7 +99,6 @@ OPTIONAL SECTIONS:
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
@@ -123,7 +110,7 @@ In order to run this project you need:
 Example command:
 
 ```sh
- gem install rails
+ Install by VS Code
 ```
  -->
 
@@ -136,7 +123,7 @@ Example commands:
 
 ```sh
   cd my-folder
-  git clone git@github.com:myaccount/my-project.git
+  Clone this repository to your desired folder:
 ```
 --->
 
@@ -144,14 +131,7 @@ Example commands:
 
 Install this project with:
 
-<!--
-Example command:
 
-```sh
-  cd my-project
-  gem install
-```
---->
 
 ### Usage
 
@@ -161,21 +141,11 @@ To run the project, execute the following command:
 Example command:
 
 ```sh
-  rails server
+  live server
 ```
 --->
 
-### Run tests
 
-To run tests, run the following command:
-
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
 
 ### Deployment
 
@@ -185,7 +155,7 @@ You can deploy this project using:
 Example:
 
 ```sh
-
+github pages
 ```
  -->
 
@@ -205,13 +175,6 @@ Example:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FUTURE FEATURES -->
-
-## 🔭 Future Features <a name="future-features"></a>
-
-- [ ] **[htm]**
-- [ ] **[css]**
-- [ ] **[linters]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -250,7 +213,7 @@ I would like to thank my coding partners, mentors, Microverse to support me.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./license) licensed.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
